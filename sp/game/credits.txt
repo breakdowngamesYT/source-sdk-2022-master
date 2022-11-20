@@ -1,0 +1,18 @@
+{ENGINE} code/models
+
+from - MaestroFenix: https://github.com/MaestroFenix
+fixed assassin - https://github.com/MaestroFenix/restored_assassin
+fixed missile defense - https://github.com/MaestroFenix/MissileDefense
+combat advisor - https://github.com/MaestroFenix/ImprovedAdvisor
+keypad - https://github.com/MaestroFenix/Keypad
+new grapple hook - https://github.com/MaestroFenix/NewGrappleHook
+
+from - valve developer community: https://developer.valvesoftware.com/
+c_hands code support -https://developer.valvesoftware.com/wiki/Hand_Viewmodels
+scoped weapons - https://developer.valvesoftware.com/wiki/Adding_a_Scope
+magority of fixes and headcrabless zombie support - https://developer.valvesoftware.com/wiki/General_SDK_Snippets_%26_Fixes
+rain splashes - https://developer.valvesoftware.com/wiki/Rain_splashes
+discord rpc - https://developer.valvesoftware.com/wiki/Implementing_Discord_RPC
+brush ladders - https://developer.valvesoftware.com/wiki/Brush_ladders
+
+{GAME} code/models/textures
